@@ -1,12 +1,4 @@
 ## Hi there 👋
-**SGKP/SGKP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for <h1 align="center">🚀 Shubham Garg</h1>
 
 <p align="center">
   Aspiring <strong>Full Stack Web Developer</strong> with strong problem-solving skills and expertise in modern web technologies.<br>
